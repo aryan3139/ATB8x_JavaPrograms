@@ -8,5 +8,6 @@ public class Tsk_003 {
         byte c = 10;
         System.out.print(b + c); // output will be 20 and data type will be int
 
+
     }
 }
